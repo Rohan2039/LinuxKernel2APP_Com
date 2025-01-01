@@ -1,4 +1,4 @@
-# LinuxKernel to Application Interaction.
+# LinuxKernel to Application Interaction via sys calls.
 
 Pyhton file : It interacts with driver file which interun calls system calls to get the work done by the Kernel. 
 
